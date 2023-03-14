@@ -108,7 +108,7 @@ body {
 }
 
 .form__button:hover {
-    background: var(--color-s);
+    background: var(--color-secondary);
 }
 
 .form__button:active {
